@@ -1,6 +1,7 @@
 # sakila database website
 Year 1 Assignment
-sakila is a database and our assignment is to create a website that is able to insert, select, update and delete the data inside the database.
+
+Sakila is a database and our assignment is to create a website that is able to insert, select, update and delete the data inside the database.
 
 ## How to run the website locally
 
